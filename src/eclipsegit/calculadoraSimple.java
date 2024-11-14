@@ -34,5 +34,6 @@ public class calculadoraSimple {
 			scanner.close();
 			
 			//Hay suma, resta y multiplicacion
+			//Codigo modificado con exito por un colaborador en github
 		}
 }
